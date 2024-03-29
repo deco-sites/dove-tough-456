@@ -134,5 +134,18 @@
     },
     "__resolveType": "site/apps/site.ts",
     "firstByteThresholdMS": true
+  },
+  "collections": {
+    "blog": {
+      "posts": {
+        "feb221f0adc7": {
+          "name": "collections/blog/posts/feb221f0adc7",
+          "__resolveType": "blog/loaders/Blogpost.ts",
+          "post": {
+            "authors": []
+          }
+        }
+      }
+    }
   }
 }
